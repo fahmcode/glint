@@ -32,5 +32,3 @@
 - 🧠 Modular logic for tasks, notes, and journals
 
 ---
-
-## 📁 Project Structure
